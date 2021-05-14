@@ -1,0 +1,67 @@
+.outside-body{
+    width: 500px;
+}
+
+.button-space{
+    width: 400px;
+    height: 50px;
+    margin: auto;
+    background-color: rgb(214, 145, 105);
+}
+
+.middle-space{
+    width : 250px;
+    height: 150px;
+    margin: auto;
+    background-color: rgb(31, 22, 22);
+}
+
+.bottom-rack-upper{
+    width : 300px;
+    height: 20px;
+    margin: auto;
+    background-color: rgb(109, 201, 196);
+}
+
+.bottom-rack-lower{
+    width : 400px;
+    height: 20px;
+    margin: auto;
+    background-color: rgb(17, 22, 22);
+}
+
+.button{
+    float: left;
+    width: 20px;
+    height: 20px;
+    background-color: rgb(39, 38, 38);
+    margin-right: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.nozzle{
+    margin-left: 110px;
+    height: 35px;
+    width: 20px;
+    background-color: rgb(168, 167, 167);
+}
+
+.coffee-mug{
+    margin-left: 70px;
+    margin-top: 50px;
+    height: 70px;
+    width: 100px;
+    border-radius: 0 0 70px 70px;
+    background-color: rgb(93, 189, 93);
+}
+
+.round-button {
+    height: 40px;
+    width: 40px;
+    margin-left: 70px;
+    margin-top: 7px;
+    background-color: rgb(20, 71, 211);
+    border-radius: 50%;
+    display: inline-block;
+}
